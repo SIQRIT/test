@@ -11,3 +11,5 @@ if st.button(f'오늘의 메뉴를 간단히 입력해주세요'): # bool type
     st.success(f'{menu_time} 먹고 달려보자!', icon='👍')
 
 # 서브 페이지에 대한 디렉토리명은 무조건 pages로 해야 한다.
+
+print('수정 사항 테스트')
